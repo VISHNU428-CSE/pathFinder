@@ -1,0 +1,7 @@
+{
+  "name": "PathFinder - Accessible Airport Navigator",
+  "description": "A high-fidelity indoor navigation app specifically designed for wheelchair users, featuring quiet-path logic, real-time crowd density visualization, and AI-powered spatial assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
